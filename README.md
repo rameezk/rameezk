@@ -1,4 +1,20 @@
-### Hi there 👋
+Hi there!
+
+My name is Rameez. 
+
+I'm an Electrical Engineer turned Software Engineer that likes building cool things and learning as I go!
+
+⚡ Some facts about me:
+- I'm a tooling fanatic and love optimizing my workflows for maximum productivity 
+- And at the same time procrastinate the last 10% of all my side projects 🤔 ...
+
+🌱 Currently learning:
+- Clojure
+- Haskell
+
+📫 Reach me on:
+- [Email](mailto:rameezkhan@protonmail.com)
+- [Twitter](https://twitter.com/RameezKhanSA)
 
 <!--
 **rameezk/rameezk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
