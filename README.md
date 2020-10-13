@@ -18,7 +18,7 @@ I'm an Electrical Engineer turned Software Engineer that likes building cool thi
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=rameezk&show_icons=true&theme=buefy?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rameezka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rameezk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rameezk/rameezk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
