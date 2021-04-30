@@ -16,9 +16,9 @@ I'm an Electrical Engineer turned Software Engineer that likes building cool thi
 - [Email](mailto:rameezkhan@protonmail.com)
 - [Twitter](https://twitter.com/RameezKhanSA)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=rameezk&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=rameezk&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rameezk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rameezk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 _NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub._
 
